@@ -91,3 +91,33 @@ ________________________________________
         •	Apply machine learning (Linear Regression).
         •	Build and deploy a functional web app (Streamlit).
         •	Handle deployment (GitHub and Streamlit Cloud).
+
+________________________________________
+ U.S. Stocks
+ ________________________________________
+Apple Inc. - AAPL
+Microsoft Corporation - MSFT
+Amazon.com Inc. - AMZN
+Alphabet Inc. (Google) - GOOGL
+Tesla Inc. - TSLA
+Meta Platforms, Inc. (Facebook) - META
+NVIDIA Corporation - NVDA
+Netflix Inc. - NFLX
+Berkshire Hathaway Inc. - BRK.A / BRK.B
+Johnson & Johnson - JNJ
+________________________________________
+Indian Stocks
+________________________________________
+Tata Motors Limited - TATAMOTORS.NS
+Reliance Industries Limited - RELIANCE.NS
+HDFC Bank Limited - HDFCBANK.NS
+Infosys Limited - INFY.NS
+Wipro Limited - WIPRO.NS
+ICICI Bank Limited - ICICIBANK.NS
+State Bank of India - SBIN.NS
+Hindustan Unilever Limited - HINDUNILVR.NS
+Bharti Airtel Limited - BHARTIARTL.NS
+Axis Bank Limited - AXISBANK.NS
+Note:
+Ticker symbols for Indian stocks typically end with .NS for the National Stock Exchange (NSE).
+You can find stocks from different markets around the world, and the ticker symbols may vary between exchanges.
