@@ -121,3 +121,5 @@ Axis Bank Limited - AXISBANK.NS
 Note:
 Ticker symbols for Indian stocks typically end with .NS for the National Stock Exchange (NSE).
 You can find stocks from different markets around the world, and the ticker symbols may vary between exchanges.
+
+
