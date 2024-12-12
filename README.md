@@ -1,4 +1,4 @@
-Project Explanation – Stock Price Prediction App
+Project Explanation – Stock Price Prediction App  link --- https://stockpricepredictionapp-n7asmqzusxjpczpz7hjsvw.streamlit.app/
 ________________________________________
 1. Project Overview
     This project aims to predict stock prices based on historical data using Linear Regression. The app allows users to visualize stock trends and predict the next day's price, helping investors make better decisions.
