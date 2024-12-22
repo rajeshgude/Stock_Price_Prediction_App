@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt  # Import Matplotlib for plotting
 from model import load_data, train_model, predict_next_day
 
 # Streamlit application title
-st.title('Stock Price Prediction App')
+st.title('EquiPredict: Smarter Investment Decisions')
 
 # User input for stock ticker and date range
 ticker = st.text_input('Enter Stock Ticker (e.g., AAPL)', 'AAPL')
